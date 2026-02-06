@@ -1,3 +1,3 @@
 Event_name = "deployX"
 Topic = "mlops"
- Trainer = "Govind gupta"
+Trainer = "Govind gupta"
